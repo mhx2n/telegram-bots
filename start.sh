@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-python newnew_bot.py
+python -u newnew_bot.py
